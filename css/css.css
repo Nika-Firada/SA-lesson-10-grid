@@ -58,6 +58,8 @@ a {
 }
 .main-contact {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .main-contact-rightside {
     display: flex;
